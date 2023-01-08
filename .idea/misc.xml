@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/background_edittext.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/background_image.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/bill_design.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/button.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/ic_backgroung_bcc.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/ic_edit_text_background.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/ic_main_background.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/drawable/main_bc.xml" value="0.1675" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout-night/activity_bill.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/activity_bill.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/activity_confirm.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/activity_load.xml" value="0.21510416666666668" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/activity_main.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/activity_splash_screen.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/connectivity.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/custom_dialog.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android/Android_Projects/MepcoBill/app/src/main/res/layout/notfound.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/drawable/background_edittext.xml" value="0.1945" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/drawable/bill_design.xml" value="0.1945" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/layout-night/activity_bill.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/layout/activity_bill.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/layout/activity_confirm.xml" value="0.17" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/layout/activity_splash_screen.xml" value="0.14340277777777777" />
+        <entry key="..\:/Android_Projects/MepcoBill/app/src/main/res/layout/custom_dialog.xml" value="0.14340277777777777" />
+        <entry key="..\:/MepcoBill/app/src/main/res/layout/activity_confirm.xml" value="0.140625" />
+        <entry key="..\:/MepcoBill/app/src/main/res/layout/activity_load.xml" value="0.140625" />
+        <entry key="..\:/MepcoBill/app/src/main/res/layout/activity_main.xml" value="0.140625" />
+        <entry key="..\:/MepcoBill/app/src/main/res/layout/activity_splash_screen.xml" value="0.140625" />
+        <entry key="..\:/MepcoBill/app/src/main/res/layout/connectivity.xml" value="0.140625" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/drawable/background_image.xml" value="0.176" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout-night/activity_bill.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/activity_bill.xml" value="0.13" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/activity_confirm.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/activity_main.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/activity_splash_screen.xml" value="0.14" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/connectivity.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/custom_dialog.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/demo.xml" value="0.12" />
+        <entry key="..\:/Users/M.arslan/Downloads/MepcoBill/app/src/main/res/layout/notfound.xml" value="0.1287568306010929" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/background_edittext.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/background_image.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/bill_design.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/button.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/ic_backgroung_bcc.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/ic_edit_text_background.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/ic_main_background.xml" value="0.1315" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/drawable/main_bc.xml" value="0.2" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/layout/activity_bill.xml" value="0.17" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/layout/activity_confirm.xml" value="0.18" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/layout/activity_continuee.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/ayan3/AndroidStudioProjects/MepcoBill/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
